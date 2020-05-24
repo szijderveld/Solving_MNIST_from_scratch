@@ -4,7 +4,7 @@ For context on the problem I would adivse look here (https://medium.com/@jayeshb
 
 If following the solution I would advise to explore the files in this order.
 
-1. Layer.py
+1. layer.py
 This file contains the parent class for the layer of the NN. It contains the empty variables for weights and biases aswell as structure for forward and backward propogation functions.
 
 2. fc_layer.py
