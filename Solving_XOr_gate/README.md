@@ -15,3 +15,6 @@ Defines the loss function and activation functions that could be utilised in the
 
 4. network.py
 Contains the network class. This hold class funcitnos to build the NN layers, fit the network and predict. 
+
+
+Finally, these files are utilised in XOr_solver.py to solve the simple XOr gate problem. The solving of this problem shows that the NN is capable of learning.
