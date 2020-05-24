@@ -1,1 +1,1 @@
-
+This directory is identical to Sovling_XOr asside from MAIN.py and the data files. MAIN.py formats the MNIST dataset to allow the NN to solve it as well fitting the model and predicting forming predictions.
